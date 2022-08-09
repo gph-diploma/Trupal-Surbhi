@@ -406,6 +406,7 @@ img {
 	font-size: 32px;
 	color: #674ea7;
 	margin: 16px;
+	margin-top: 30px;
 	text-align: center;
 }
 
@@ -457,6 +458,7 @@ body {
     width: 100%; */
 	flex-direction: column;
 }
+
 
 .title {
 	margin-bottom: 40px;
@@ -535,6 +537,7 @@ body {
 	text-align: center;
 	font-size: 16px;
 	margin: 24px;
+	margin-top: 65px;
 }
 
 .phone {
@@ -576,4 +579,36 @@ a {
 	display: flex;
 	font-size: 12px;
 	letter-spacing: 0pt;
+}
+.hash p{
+	font-family: 'Dancing Script', cursive;
+	font-weight: bolder;
+	font-style: normal;
+	font-size: 50px;
+	color: #674ea7;
+	margin: 16px;
+	margin-top: 2px;
+	text-align: center;
+}
+
+.aulbum{
+	margin-left: 336px;
+	
+}
+
+.aulbum #img2{
+	margin-left: 68px;
+}
+
+.aulbum #img3{
+	margin-left: 129px;
+}
+.aulbum img{
+max-width: 100%;
+	height: auto;
+	border-radius: 5px;
+}
+
+.ntg{
+	height: 45px;;
 }
